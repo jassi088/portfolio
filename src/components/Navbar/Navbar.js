@@ -71,7 +71,7 @@ const Navbar = () => {
         className='btn btn--icon nav__hamburger'
         aria-label='toggle navigation'
       >
-        {showNavList ? <GrFormClose /> : <FiMenu />}
+        {showNavList ? <GrFormClose size={20} /> : <FiMenu size={20} />}
       </button>
     </nav>
   )
