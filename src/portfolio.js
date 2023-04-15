@@ -1,5 +1,5 @@
 const header = {
-  homepage: '',
+  homepage: 'https://jaspreetsingh.info/',
   title: 'JS.',
 }
 
