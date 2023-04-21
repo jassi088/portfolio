@@ -28,7 +28,7 @@ const projects = [
   {
     name: 'OldGoods Market Place',
     description:
-      'Refurbished Goods Marketplace App with separate user interfaces for Seller, Buyer and Admin',
+      'Refurbished Goods Marketplace App with separate user interfaces for Seller, Buyer and Admin. Marketplaces are catering to the growing consumer demand for refurbished products globally.',
     stack: ['React.js', 'Node.js', 'Express.js', 'Mongodb'],
     sourceCode: 'https://github.com/jassi088/ogmp_frontend',
     livePreview: 'https://ogmp.netlify.app/',
