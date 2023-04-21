@@ -26,12 +26,12 @@ const projects = [
     livePreview: 'https://ecom-shopp.netlify.app',
   },
   {
-    name: 'DUMMY',
+    name: 'OldGoods Market Place',
     description:
-      'Work in progress...',
-    stack: [],
-    sourceCode: '',
-    livePreview: '',
+      'Refurbished Goods Marketplace App with separate user interfaces for Seller, Buyer and Admin',
+    stack: ['React.js', 'Node.js', 'Express.js', 'Mongodb'],
+    sourceCode: 'https://github.com/jassi088/ogmp_frontend',
+    livePreview: 'https://ogmp.netlify.app/',
   },
   {
     name: 'DUMMY',
