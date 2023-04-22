@@ -54,6 +54,7 @@ const skills = [
   'Redux',
   'TailwindCSS',
   'Material UI',
+  'Ant Design',
   'Node.js',
   'Express.js',
   'Mongodb',
